@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+h1 {
+  font-size: 24;
+  color: brown;
+  text-align: center;
+}
+
+p {
+  color: darkgreen;
+  font-size: 14;
+}
+
+.redHeading {
+  color: red;
+  font-size: 16;
+}
+
+.blueHeading {
+  color: rgb(8, 8, 90, 1);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.greenHeading {
+  color: green;
+  font-size: 18;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#test {
+  font-size: larger;
+  color: rgb(8, 8, 90, 0.2);
+}
+img {
+  color: yellow;
+}
+a {
+  color: indigo;
+}
+.divStyle {
+  color: crimson;
+}

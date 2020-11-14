@@ -1,0 +1,23 @@
+h1 {
+  text-align: center;
+  color: brown;
+}
+h3 {
+  color: green;
+  margin-top: 30px;
+}
+span#Data {
+  font-size: 18;
+  color: grey;
+}
+article#person {
+  margin-left: 32;
+  text-align: justify;
+  margin-top: 50px;
+  margin-left: 20px;
+  margin-right: 60px;
+}
+h2 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
