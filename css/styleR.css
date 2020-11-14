@@ -17,7 +17,34 @@ article#person {
   margin-left: 20px;
   margin-right: 60px;
 }
-h2 {
-  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+.divYellow {
+  background-color: yellow;
+  width: 200px;
+  height: 20px;
+  display: inline;
+}
+.divBlue {
+  background-color: blue;
+  width: 200px;
+  height: 20px;
+  display: inlene-block;
+}
+body {
+  display: inline;
+}
+header {
+  height: 20;
+  background-color: aqua;
+}
+footer {
+  background-color: bisque;
+}
+nav > ul {
+  font-size: 16;
+}
+nav > ul > li {
+  display: inline-block;
+  border: 1px solid blue;
+  padding: 2px;
+  font-size: 16;
 }
